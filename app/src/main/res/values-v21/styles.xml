@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/yellow</item>
+        <item name="actionMenuTextColor">@color/yellow</item>
+    </style>
+    <style name="design">
+        <item name="android:title">@color/yellow</item>
+        <item name="actionMenuTextColor">@color/yellow</item>
+    </style>
+
+
+</resources>

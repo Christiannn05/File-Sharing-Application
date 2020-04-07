@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720136614547",
+    "firebase_url": "https://smartdoks-feedback.firebaseio.com",
+    "project_id": "smartdoks-feedback",
+    "storage_bucket": "smartdoks-feedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720136614547:android:3a79984afaca839c",
+        "android_client_info": {
+          "package_name": "com.e.smartdoks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720136614547-83bmb524n70pr9oi34n1jvv4s7b76jt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZGP9ZScH9ttBkM1Paqt_KQLjjRE4qMrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720136614547-83bmb524n70pr9oi34n1jvv4s7b76jt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

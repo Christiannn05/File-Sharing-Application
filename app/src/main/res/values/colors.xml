@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+//Dark mode
+    <color name="darkGrayMain">#120e12</color>
+    <color name="yellow">#F0CD19</color>
+    <color name="superDarkGray">#121212</color>
+    <color name="text">#ffffff</color>
+    <color name="text2">#F0CD19</color>
+</resources>

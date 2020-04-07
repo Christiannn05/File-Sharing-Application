@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartDOKS - PHILIPPINES</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="smartdoks">SmartDOKS</string>
+    <string name="tagline">Mabilis na pagsalin ng </string>
+    <string name="tagline2">Papeles Kahit Walang Internet</string>
+    <string name="send">Magpadala</string>
+    <string name="receive">Tumanggap</string>
+    <string name="browse">Panginain</string>
+    <string name="settings">Mga Setting</string>
+    <string name="dark_theme">Madilim na Tema</string>
+    <string name="dark_theme_description">Paganahin ang tema sa buong app</string>
+    <string name="language">Wika</string>
+    <string name="language_description">Palitan ang wika sa buong app</string>
+    <string name="your_name">Iyong Pangalan</string>
+    <string name="file_transfer_application">Tagapasa ng Papeles</string>
+    <string name="account">Iyong Account</string>
+    <string name="notifications">Mga Abiso</string>
+    <string name="about">Tungkol sa amin</string>
+    <string name="nofileselected">Walang Napiling Papeles</string>
+    <string name="aboutus">Tungkol sa amin</string>
+    <string name="greetings">Magandang Gabi!</string>
+    <string name="helpandfeedback">Tulong at Tugon</string>
+    <string name="hfmessage">
+Ang pagpapadala ng iyong mga katanungan, mungkahi o puna sa app na ito ay ginagawang madali gamit ang iyong email account. I-click lamang ang pindutan at isang dialog box ay lilitaw. I-rate ang app ayon sa iyong kagustuhan. Ang iyong tugon ay lubos na pinahahalagahan</string>
+    <string name="clickhere">Pindutin Dito</string>
+    <string name="instruction">Pagtuturo</string>
+    <string name="developers">Mga Nagsipaggawa</string>
+    <string name="close">Sarado</string>
+    <string name="about1">Isang Aplikasyon sa pagpasa ng papeles para sa</string>
+    <string name="about2">paglimbag sa kiosk</string>
+    <string name="about3">Ginawa ng MeMaPaShaRth 2019</string>
+    <string name="rateme">Tasahan mo ko</string>
+    <string name="change">Baguhin</string>
+    <string name="submit">Ipasa</string>
+    <string name="help_feedback">Mga Mensahe / Katugunan</string>
+    <string name="poweredby">Pinatatakbo ng</string>
+    <string name="instruction1">1. Kunin ang Aplikasyon sa Paglilipat ng Papeles.</string>
+    <string name="instruction2">2. Ikonekta at I-scan ang Iyong Aplikasyon sa Telepono.</string>
+    <string name="instruction3">3. Pumili at Magpadala ng mga Papeles sa SmartDOKS Kiosk.</string>
+    <string name="instruction5">4. Hintayin mo ang iyong pila</string>
+
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartDOKS - CHINESE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="smartdoks">SmartDOKS</string>
+    <string name="tagline">快速文件共享</string>
+    <string name="tagline2">没有互联网</string>
+    <string name="send">发送</string>
+    <string name="receive">接收</string>
+    <string name="browse">浏览</string>
+    <string name="settings">设定值</string>
+    <string name="dark_theme">黑暗主题</string>
+    <string name="dark_theme_description">在整个应用程序中启用主题</string>
+    <string name="language">语言</string>
+    <string name="language_description">在整个应用程序中更改语言</string>
+    <string name="your_name">你的名字</string>
+    <string name="file_transfer_application">文件传输申请</string>
+    <string name="account">帐户</string>
+    <string name="notifications">通知事项</string>
+    <string name="about">关于</string>
+    <string name="nofileselected">未选择文件</string>
+    <string name="aboutus">关于我们</string>
+    <string name="greetings">美好的一天!</string>
+    <string name="helpandfeedback">帮助和反馈</string>
+    <string name="hfmessage">使用您的电子邮件帐户，可以轻松发送关于此应用程序的查询，建议或反馈。只需单击按钮，将出现一个对话框。根据您的意愿为应用评分。非常感谢您的回应</string>
+    <string name="clickhere">点击这里</string>
+    <string name="instruction">指令</string>
+    <string name="developers">开发团队</string>
+    <string name="close">关</string>
+    <string name="about1">的文件传输应用程序</string>
+    <string name="about2">印刷亭</string>
+    <string name="about3">由MeMaPaShArth开发2019</string>
+    <string name="rateme">评价我</string>
+    <string name="change">更改</string>
+    <string name="submit">提交</string>
+    <string name="help_feedback">讯息 / 反馈</string>
+    <string name="poweredby">供电</string>
+    <string name="instruction1">1. 获取文件传输应用.</string>
+    <string name="instruction2">2. 连接并扫描您的移动应用.</string>
+    <string name="instruction3">3. 挑选文件并将其发送到信息亭.</string>
+    <string name="instruction5">4. 等待你的队列.</string>
+</resources>

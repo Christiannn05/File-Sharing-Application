@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/darkGrayMain">
+
+    <TextView
+        android:id="@+id/history"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="75dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:includeFontPadding="false"
+        android:text="@string/settings"
+        android:textColor="@color/text"
+        android:textSize="30dp" />
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="130dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/mood">
+
+    </ImageView>
+
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="330dp"
+        android:src="@drawable/ic_light_dark_theme">
+
+    </ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="330dp"
+        android:textSize="16dp"
+        android:textColor="@color/text"
+        android:textStyle="bold"
+        android:text="@string/dark_theme">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="350dp"
+        android:textSize="10dp"
+        android:textColor="@color/text"
+        android:text="@string/dark_theme_description">
+    </TextView>
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/nightmodeswitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="340dp"
+        android:checked="false"
+
+        android:textColor="@color/text">
+    </android.support.v7.widget.SwitchCompat>
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="390dp"
+            android:src="@drawable/ic_worlwide">
+        </ImageView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="390dp"
+        android:textSize="16dp"
+        android:textColor="@color/text"
+        android:textStyle="bold"
+        android:text="@string/language">
+    </TextView>
+<Button
+    android:layout_width="75dp"
+    android:layout_height="30dp"
+    android:id="@+id/changeMyLang"
+    android:text="@string/change"
+    android:textColor="@color/darkGrayMain"
+    android:layout_marginLeft="330dp"
+    android:layout_marginTop="395dp"
+    android:background="@drawable/btnstylebg"
+    android:backgroundTint="@color/yellow"
+></Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="410dp"
+        android:textSize="10dp"
+        android:textColor="@color/text"
+        android:text="@string/language_description">
+    </TextView>
+    <ImageView
+        android:layout_width="33dp"
+        android:layout_height="33dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="450dp"
+        android:src="@drawable/ic_pen">
+    </ImageView>
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_marginLeft="65dp"
+    android:layout_marginTop="450dp"
+    android:textSize="16dp"
+    android:textColor="@color/text"
+    android:textStyle="bold"
+    android:text="@string/your_name">
+</TextView>
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="475dp"
+        android:textSize="16dp"
+        android:textColor="@color/text"
+        android:textStyle="italic"
+        android:hint="paul"
+        android:id="@+id/yourname"
+        android:text="">
+    </EditText>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="65dp"
+        android:layout_marginTop="470dp"
+        android:textSize="10dp"
+        android:textColor="@color/text"
+        android:textColorHint="@color/text"
+        android:textAppearance="@color/text"
+        android:outlineProvider="background"
+        android:backgroundTintMode="add"
+        android:text="">
+    </TextView>
+    <Button
+        android:layout_width="75dp"
+        android:layout_height="30dp"
+        android:id="@+id/yourNameButton"
+        android:text="@string/change"
+        android:textColor="@color/darkGrayMain"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="480dp"
+        android:background="@drawable/btnstylebg"
+        android:backgroundTint="@color/yellow"
+        ></Button>
+
+
+</RelativeLayout>
+

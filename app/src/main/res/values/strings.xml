@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SmartDOKS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="smartdoks">SmartDOKS</string>
+    <string name="tagline">Fast File Sharing</string>
+    <string name="tagline2">Without Internet</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="browse">Browse</string>
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="dark_theme_description">Enable the theme throughout the app</string>
+    <string name="language">Language</string>
+    <string name="language_description">Change language throughout the app</string>
+    <string name="your_name">Your Name</string>
+    <string name="file_transfer_application">File Transfer Application</string>
+    <string name="account">Account</string>
+    <string name="notifications">Notifications</string>
+    <string name="about">About</string>
+    <string name="nofileselected">No File(s) Selected</string>
+    <string name="aboutus">About Us</string>
+    <string name="greetings">Good Night!</string>
+    <string name="helpandfeedback">Help and Feedback</string>
+    <string name="hfmessage">Sending your inquiries, suggestion or feedback on this app is made easy using your email account. Just Click the button and a dialog box will appear. Rate the app according to your will. Your response is highly appreciated</string>
+    <string name="clickhere">clickhere</string>
+    <string name="instruction">Instruction</string>
+    <string name="developers">Developers Team</string>
+    <string name="close">Close</string>
+    <string name="about1">A file transfer application for</string>
+    <string name="about2">Printing Kiosk</string>
+    <string name="about3">Developed by MeMaPaShArth 2019</string>
+    <string name="rateme">Rate Me</string>
+    <string name="change">Change</string>
+    <string name="help_feedback">Messages / Feedback</string>
+    <string name="submit">Submit</string>
+    <string name="poweredby">Powered By</string>
+    <string name="instruction1">1. Get the Android File Transfer App.</string>
+    <string name="instruction2">2. Connect and Scan your Mobile App.</string>
+    <string name="instruction3">3. Pick and Send Files to the SmartDOKS Kiosk.</string>
+    <string name="instruction5">4. Wait for your queue.</string>
+
+</resources>
+
+

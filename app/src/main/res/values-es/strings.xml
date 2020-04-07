@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartDOKS - SPANISH</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="smartdoks">SmartDOKS</string>
+    <string name="tagline">Intercambio rápido de archivos</string>
+    <string name="tagline2">Sin Internet</string>
+    <string name="send">Enviar</string>
+    <string name="receive">Recibir</string>
+    <string name="browse">Vistazo</string>
+    <string name="settings">Ajuste</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="dark_theme_description">Habilite el tema en toda la aplicación</string>
+    <string name="language">Idioma</string>
+    <string name="language_description">Cambiar idioma en toda la aplicación</string>
+    <string name="your_name">Tu Nombre</string>
+    <string name="file_transfer_application">Solicitud de transferencia de archivos</string>
+    <string name="account">Cuenta</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="about">Acerca de</string>
+    <string name="nofileselected">No hay archivos seleccionados</string>
+    <string name="aboutus">Sobre nosotros</string>
+    <string name="greetings">Buen día!</string>
+    <string name="helpandfeedback">Ayuda y comentarios</string>
+    <string name="hfmessage">Enviar sus consultas, sugerencias o comentarios sobre esta aplicación se hace fácil usando su cuenta de correo electrónico. Simplemente haga clic en el botón y aparecerá un cuadro de diálogo. Califica la aplicación según tu voluntad. Su respuesta es muy apreciada</string>
+    <string name="clickhere">haga clic aquí</string>
+    <string name="instruction">Instrucción</string>
+    <string name="developers">Equipo de desarrolladores</string>
+    <string name="close">cerca</string>
+    <string name="about1">Una aplicación de transferencia de archivos para</string>
+    <string name="about2">quiosco de impresión</string>
+    <string name="about3">Desarrollado por MeMaPaShArth 2019</string>
+    <string name="rateme">Califícame</string>
+    <string name="change">Cambio</string>
+    <string name="submit">Enviar</string>
+    <string name="help_feedback">mensajes / comentarios</string>
+    <string name="poweredby">Energizado Por</string>
+    <string name="instruction1">1. Obtenga la aplicación de transferencia de archivos.</string>
+    <string name="instruction2">2. Conecte y escanee su aplicación móvil.</string>
+    <string name="instruction3">3. Elija y envíe archivos al quiosco .</string>
+    <string name="instruction5">4. Espera tu cola.</string>
+
+
+
+
+
+
+
+
+</resources>

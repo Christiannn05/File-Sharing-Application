@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartDOKS - JAPAN</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="smartdoks">SmartDOKS</string>
+    <string name="tagline">高速ファイル共有</string>
+    <string name="tagline2">インターネットなし</string>
+    <string name="send">送る</string>
+    <string name="receive">受け取る</string>
+    <string name="browse">ブラウズ</string>
+    <string name="settings">設定</string>
+    <string name="dark_theme">暗いテーマ</string>
+    <string name="dark_theme_description">アプリ全体でテーマを有効にする</string>
+    <string name="language">言語</string>
+    <string name="language_description">zアプリ全体で言語を変更する</string>
+    <string name="your_name">あなたの名前</string>
+    <string name="file_transfer_application">ファイル転送アプリケーション</string>
+    <string name="account">アカウント</string>
+    <string name="notifications">お知らせ</string>
+    <string name="about">約</string>
+    <string name="nofileselected">ファイルが選択されていません</string>
+    <string name="aboutus">私たちに関しては</string>
+    <string name="greetings">良い一日!</string>
+    <string name="helpandfeedback">ヘルプとフィードバック</string>
+    <string name="hfmessage">
+このアプリに関するお問い合わせ、提案、フィードバックの送信は、メールアカウントを使用して簡単に行えます。ボタンをクリックすると、ダイアログボックスが表示されます。あなたの意志に従ってアプリを評価してください。あなたの反応は大歓迎です</string>
+    <string name="clickhere">ここをクリック</string>
+    <string name="instruction">指示</string>
+    <string name="developers">開発者チーム</string>
+    <string name="close">閉じる</string>
+    <string name="about1">のファイル転送アプリケーション</string>
+    <string name="about2">印刷キオスク</string>
+    <string name="about3">MeMaPaShArth 2019によって開発されました</string>
+    <string name="rateme">私を評価</string>
+    <string name="change">変化する</string>
+    <string name="submit">参加する</string>
+    <string name="help_feedback">メッセージ / フィードバック</string>
+    <string name="poweredby">搭載</string>
+    <string name="instruction1">1. ファイル転送アプリを入手する.</string>
+    <string name="instruction2">2. モバイルアプリを接続してスキャンする.</string>
+    <string name="instruction3">3. ファイルを選択してキオスクに送信する.</string>
+    <string name="instruction5">4. キューを待つ.</string>
+
+</resources>
